@@ -36,7 +36,7 @@ export default {
       // week: 'week',
       weeks: {
         sun: 'អាទិត្យ',
-        mon: 'Mon',
+        mon: 'ចន្ទ',
         tue: 'អង្គារ',
         wed: 'ពុធ',
         thu: 'ព្រ.ហ',
